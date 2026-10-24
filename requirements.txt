@@ -1,0 +1,7 @@
+PyQt6>=6.5.0
+
+pyqtgraph>=0.13.0
+
+pandas>=2.0.0
+
+yfinance>=0.2.0
